@@ -244,18 +244,3 @@ The complete workflow is:
 - Personalized heat-stress recommendations
 - Data visualization and analytics
 
-## ⚠️ Disclaimer
-
-This project is developed for **educational and research purposes**.
-
-The predictions should not be considered a medical diagnosis or a replacement for professional medical advice.
-
----
-
-## 👩‍💻 Project
-
-**Heat Stress Monitor**
-
-**AI • Machine Learning • IoT • FastAPI • ESP32 • Flutter**
-
-Built with ❤️
